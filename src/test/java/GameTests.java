@@ -185,11 +185,6 @@ public class GameTests {
         assertNotNull(gamePanel);
     }
 
-    @Test
-    void gameframe(){
-        GameFrame gameframe = new GameFrame();
-        assertNotNull(gameframe);
-    }
 
     @Test
     void mainTest() {
