@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Random;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class GameTestts {
+public class GameTests {
     @org.junit.jupiter.api.Test
     void startGame() {
         GamePanel panel = new GamePanel();
